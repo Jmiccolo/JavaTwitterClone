@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TwitterbackendApplication<twitterbackend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.joshmiccolo.twitterbackend.TwitterbackendApplication",
+            "projectName": "twitterbackend",
+            "args": ""
+        }
+    ]
+}
